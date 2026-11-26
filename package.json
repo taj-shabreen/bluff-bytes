@@ -1,0 +1,23 @@
+{
+  "name": "bluff-bytes-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A five-round CS and AI bluffing party game for 2–8 players.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs && tsc --noEmit",
+    "test:game": "node scripts/build.mjs && node .netlify/function-check/test-game.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.3",
+    "@netlify/functions": "^6.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.0",
+    "esbuild": "^0.25.10",
+    "typescript": "^5.9.2"
+  }
+}
