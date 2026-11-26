@@ -92,7 +92,7 @@ Everything below is implemented in the source (`netlify/game-core.ts`, `netlify/
 <br/>
 
 1. Open two browser windows on the live game and play a full room so every screen appears.
-2. Capture these files (PNG, around 1200 px wide) and save them in `docs/screenshots/`:
+2. Capture these files (PNG, around 1200 px wide) and save them in `screenshots/`:
 
    | File | What to capture |
    |---|---|
@@ -254,41 +254,6 @@ bluff-bytes/
 
 <br/>
 
-## ☁️ Deployment
-
-The project is built for **drag-and-drop deployment on Netlify**.
-
-1. Sign in to Netlify and open [Netlify Drop](https://app.netlify.com/drop).
-2. Upload the project as a zip. Netlify runs `npm run build`, publishes `dist/`, and packages the `game` Function.
-3. Open the generated `*.netlify.app` URL, create a room, and share the URL with the room code.
-
-Netlify provisions Blobs access for Functions automatically, so there's no site ID, API token, environment variable, or separate database to set up. You must be signed in to Netlify for Drop to run the build. Without signing in, Drop publishes the files as-is and won't build the Function.
-
-<br/>
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repo and create a branch: `git checkout -b feature/your-idea`
-2. Make your change. Game rules belong in `netlify/game-core.ts`. UI changes go in `app.js` and `style.css`.
-3. Run `npm run build && npm run test:game` and make sure both pass.
-4. Open a pull request describing what changed and why.
-
-<br/>
-
-## 🗺️ Roadmap
-
-Ideas, not promises:
-
-- [ ] Larger term bank with randomized selection per game
-- [ ] Automatic expiry and cleanup for old rooms
-- [ ] Push updates (SSE or WebSockets) in place of polling
-- [ ] Transactional database option for larger-scale play
-- [ ] Gameplay screenshots and GIF in this README
-- [ ] Add a `LICENSE` file
-
-<br/>
 
 ## 👩‍💻 Developer
 
@@ -304,7 +269,7 @@ Ideas, not promises:
 
 <br/>
 
-Built for the **Handshake "Create a Multiplayer Game"** brief.
+
 If you enjoyed the bluffing, a ⭐ on the repo is appreciated.
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer" />
