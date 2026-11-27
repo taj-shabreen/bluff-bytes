@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Bluff Bytes: a party game for clever liars" src="docs/assets/banner.svg" />
+<img width="100%" alt="Bluff Bytes: a party game for clever liars" src="screenshots\banner.svg" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=1000&color=A6F3A0&center=true&vCenter=true&width=760&height=40&lines=%3E+PRESS+START;%3E+WRITE+A+BLUFF.+FIND+THE+TRUTH.;%3E+%2B2+FIND+THE+TRUTH+%7C+%2B1+FOOL+A+FRIEND;%3E+5+ROUNDS.+2-8+PLAYERS." alt="Typing animation: Press start. Write a bluff. Find the truth." />
 
@@ -41,13 +41,13 @@ No accounts. No installs. Create a room, share a six-character code, and play in
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/01-home.png" width="100%" alt="Bluff Bytes home screen" />
+  <img src="screenshots/3.png" width="100%" alt="Bluff Bytes home screen" />
 </p>
 <p align="center">
-  <img src="docs/screenshots/02-rules-strip.png" width="100%" alt="Rules at a glance: 5 rounds, +2 find the truth, +1 fool a friend, 2 to 8 players" />
+  <img src="screenshots/1.png" width="100%" alt="Rules at a glance: 5 rounds, +2 find the truth, +1 fool a friend, 2 to 8 players" />
 </p>
 <p align="center">
-  <img src="docs/screenshots/03-create-join.png" width="100%" alt="Create a room or join one with a room code" />
+  <img src="screenshots/2.png" width="100%" alt="Create a room or join one with a room code" />
 </p>
 
 <p align="center"><b>▶ <a href="https://gleaming-squirrel-0b0864.netlify.app/">Play the live demo</a></b></p>
