@@ -1,28 +1,28 @@
 <div align="center">
 
-<img width="100%" alt="Bluff Bytes banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=BLUFF%20BYTES&fontSize=60&fontColor=E0D7FF&fontAlignY=40&desc=A%20multiplayer%20party%20game%20for%20clever%20liars&descSize=17&descAlignY=62&descColor=A78BFA&animation=fadeIn" />
+<img width="100%" alt="Bluff Bytes: a party game for clever liars" src="docs/assets/banner.svg" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Real+CS+%26+AI+terms.+Fake+definitions.;One+true+answer+hiding+in+the+lineup.;Fool+your+friends.+Find+the+truth.+Win." alt="Typing animation: Real CS and AI terms. Fake definitions. One true answer hiding in the lineup." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=1000&color=A6F3A0&center=true&vCenter=true&width=760&height=40&lines=%3E+PRESS+START;%3E+WRITE+A+BLUFF.+FIND+THE+TRUTH.;%3E+%2B2+FIND+THE+TRUTH+%7C+%2B1+FOOL+A+FRIEND;%3E+5+ROUNDS.+2-8+PLAYERS." alt="Typing animation: Press start. Write a bluff. Find the truth." />
 
 <br/>
 
-<a href="https://gleaming-squirrel-0b0864.netlify.app/"><img src="https://img.shields.io/badge/▶_PLAY_LIVE-Open_the_game-7C3AED?style=for-the-badge&labelColor=0B0F19" height="38" alt="Play Bluff Bytes live" /></a>
-<a href="https://github.com/taj-shabreen/bluff-bytes"><img src="https://img.shields.io/badge/GitHub-taj--shabreen%2Fbluff--bytes-302B63?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19" height="38" alt="GitHub repository" /></a>
+<a href="https://gleaming-squirrel-0b0864.netlify.app/"><img src="https://img.shields.io/badge/%E2%96%B6_PRESS_START-PLAY_LIVE-FFBD62?style=for-the-badge&labelColor=080C0A" height="38" alt="Play Bluff Bytes live" /></a>
+<a href="https://github.com/taj-shabreen/bluff-bytes"><img src="https://img.shields.io/badge/GITHUB-bluff--bytes-A6F3A0?style=for-the-badge&logo=github&logoColor=A6F3A0&labelColor=080C0A" height="38" alt="GitHub repository" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Node.js-%E2%89%A5%2020-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 20 or newer" />
-<img src="https://img.shields.io/badge/Netlify_Functions-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Functions" />
-<img src="https://img.shields.io/badge/Netlify_Blobs-302B63?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify Blobs" />
-<img src="https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black" alt="esbuild" />
+<img src="https://img.shields.io/badge/TypeScript-080C0A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-080C0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-080C0A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-080C0A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/Node.js_20%2B-080C0A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js 20 or newer" />
+<img src="https://img.shields.io/badge/Netlify_Functions-080C0A?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify Functions" />
+<img src="https://img.shields.io/badge/Netlify_Blobs-080C0A?style=for-the-badge&logo=netlify&logoColor=A6F3A0" alt="Netlify Blobs" />
+<img src="https://img.shields.io/badge/esbuild-080C0A?style=for-the-badge&logo=esbuild&logoColor=FFCF00" alt="esbuild" />
 
 <br/>
 
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fgleaming-squirrel-0b0864.netlify.app&style=flat-square&label=live%20site&labelColor=0B0F19" alt="Live site status" />
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fgleaming-squirrel-0b0864.netlify.app&style=flat-square&label=server&labelColor=080C0A" alt="Live site status" />
 
 </div>
 
@@ -35,6 +35,22 @@ Every round shows a real computer science or AI term. Everyone secretly writes a
 Find the truth and you score. Fool a friend with your bluff and you score too. After five terms, the highest score wins.
 
 No accounts. No installs. Create a room, share a six-character code, and play in the browser.
+
+<br/>
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/01-home.png" width="100%" alt="Bluff Bytes home screen" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/02-rules-strip.png" width="100%" alt="Rules at a glance: 5 rounds, +2 find the truth, +1 fool a friend, 2 to 8 players" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/03-create-join.png" width="100%" alt="Create a room or join one with a room code" />
+</p>
+
+<p align="center"><b>▶ <a href="https://gleaming-squirrel-0b0864.netlify.app/">Play the live demo</a></b></p>
 
 <br/>
 
@@ -68,56 +84,6 @@ Everything below is implemented in the source (`netlify/game-core.ts`, `netlify/
 5. **Vote.** Once everyone has submitted, the lineup appears with the real definition mixed in. Pick the one you think is true.
 6. **Score.** Correct vote = **+2**. Each player fooled by your bluff = **+1** for you.
 7. **Repeat for five rounds**, then see the winner and final leaderboard. The host can hit **Play again**.
-
-<br/>
-
-## 📸 Screenshots & Demo
-
-> **Live demo:** [gleaming-squirrel-0b0864.netlify.app](https://gleaming-squirrel-0b0864.netlify.app/)
-
-<!-- TODO: add screenshots under docs/screenshots/ and replace this table (see the maintainer note below). -->
-
-| Screen | Status |
-|---|---|
-| 🏠 Home, create or join a room | _screenshot coming soon_ |
-| 🚪 Lobby with room code and players | _screenshot coming soon_ |
-| ✍️ Writing a bluff | _screenshot coming soon_ |
-| 🗳️ Voting screen | _screenshot coming soon_ |
-| ✅ Round reveal | _screenshot coming soon_ |
-| 🏆 Winner and leaderboard | _screenshot coming soon_ |
-
-<details>
-<summary><b>📷 How to add screenshots (maintainer note)</b></summary>
-
-<br/>
-
-1. Open two browser windows on the live game and play a full room so every screen appears.
-2. Capture these files (PNG, around 1200 px wide) and save them in `screenshots/`:
-
-   | File | What to capture |
-   |---|---|
-   | `01-home.png` | Home screen with the create and join cards |
-   | `02-lobby.png` | Lobby showing the room code and 2+ players |
-   | `03-write.png` | Writing phase with a term on screen |
-   | `04-voting.png` | Voting phase with the answer list |
-   | `05-reveal.png` | Reveal with the real definition and "fooled" names |
-   | `06-winner.png` | Final screen with the winner and leaderboard |
-   | `gameplay.gif` *(optional)* | A 10–15 s screen recording of one round, under 10 MB |
-
-3. Replace the table above with:
-
-   ```html
-   <p align="center">
-     <img src="docs/screenshots/01-home.png" width="48%" alt="Home screen" />
-     <img src="docs/screenshots/02-lobby.png" width="48%" alt="Lobby" />
-   </p>
-   <p align="center">
-     <img src="docs/screenshots/04-voting.png" width="48%" alt="Voting screen" />
-     <img src="docs/screenshots/05-reveal.png" width="48%" alt="Round reveal" />
-   </p>
-   ```
-
-</details>
 
 <br/>
 
@@ -245,6 +211,9 @@ bluff-bytes/
 ├── scripts/
 │   ├── build.mjs           # Copies static files to dist/, bundles Function + test
 │   └── test-game.ts        # End-to-end game test (in-memory blob store)
+├── docs/
+│   ├── assets/banner.svg   # Animated README banner
+│   └── screenshots/        # README screenshots
 ├── netlify.toml            # Build command, publish dir, functions dir, dev port
 ├── package.json            # Scripts and dependencies
 ├── package-lock.json
@@ -254,24 +223,20 @@ bluff-bytes/
 
 <br/>
 
-
 ## 👩‍💻 Developer
 
 **Shabreen Taj** · AI/ML developer and B.Tech CSE student
 
 <p>
-  <a href="https://github.com/taj-shabreen"><img src="https://img.shields.io/badge/GitHub-@taj--shabreen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @taj-shabreen" /></a>
-  <a href="https://pshabreentaj.com"><img src="https://img.shields.io/badge/Portfolio-pshabreentaj.com-7C3AED?style=for-the-badge&labelColor=0B0F19" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/shabreen-taj77"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/taj-shabreen"><img src="https://img.shields.io/badge/GitHub-taj--shabreen-A6F3A0?style=for-the-badge&logo=github&logoColor=A6F3A0&labelColor=080C0A" alt="GitHub taj-shabreen" /></a>
+  <a href="https://pshabreentaj.com"><img src="https://img.shields.io/badge/Portfolio-pshabreentaj.com-FFBD62?style=for-the-badge&labelColor=080C0A" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/shabreen-taj77"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=080C0A" alt="LinkedIn" /></a>
 </p>
 
 <div align="center">
 
 <br/>
 
-
 If you enjoyed the bluffing, a ⭐ on the repo is appreciated.
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer" />
 
 </div>
